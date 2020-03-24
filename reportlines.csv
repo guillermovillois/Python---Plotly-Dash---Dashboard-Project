@@ -1,0 +1,29 @@
+ReportLine,Number,ParentReportLine,Groups
+Deployed Payroll,1,Total Payroll,Payroll
+Net (Loan)/Borrow Payroll,2,Total Payroll,Recoveries
+Subcontractor - In Network,3,Total Subcontractor,Other
+Subcontractor  - Other,4,Total Subcontractor,Other
+Employment Costs,5,Total Non-Payroll,DNP
+Travel & Subsistence,6,Total Non-Payroll,DNP
+Client Entertainment,7,Total Non-Payroll,DNP
+"Equip, Svcs & Maint",8,Total Non-Payroll,DNP
+Depreciation,9,Total Non-Payroll,DNP
+Other Services & Professional Fees,10,Total Non-Payroll,DNP
+Marketing & Image,11,Total Non-Payroll,DNP
+Other Business Costs,12,Total Non-Payroll,DNP
+Discretionary Price List Services,13,Total Usage Charges,Other
+Training Charges,14,Total Usage Charges,Other
+Seat Charges,15,Total Usage Charges,Other
+Technology Services Charges,16,Total Usage Charges,Other
+Other Usage Charges,17,Total Usage Charges,Other
+Global Business Costs,18,Total Business Costs,Other
+Bad Debt Expense,19,Total Business Costs,Other
+Consolidated Entity Costs & BPO Costs,20,Total Business Costs,Other
+Capital Charge,21,Total Business Costs,Other
+Load Recoveries - Geographic,22,Total Transfer Costs,Recoveries
+Load Recoveries - PD&S,23,Total Transfer Costs,Recoveries
+Load - Geographic,24,Total Transfer Costs,Recoveries
+Load - PD&S,25,Total Transfer Costs,Recoveries
+Required Price List Services,26,Total Transfer Costs,Other
+Other Transfer Costs,27,Total Transfer Costs,Other
+Geographic Charge on Deployed,28,Total Transfer Costs,Other
